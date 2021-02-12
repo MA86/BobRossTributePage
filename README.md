@@ -1,7 +1,7 @@
 # Bob Ross Tribute Page
 A beautiful and responsive website dedicated to Bob Ross. 
 
-**Technologies Used**: 
+# **Technologies Used**: 
 
 HTML, CSS (Flexbox). 
 
