@@ -1,4 +1,4 @@
-# **Bob Ross Tribute Page**:
+# **Bob Ross Tribute Webpage**:
 Built a beautiful and responsive website dedicated to Bob Ross using CSS, Flexbox and HTML.
 
 # **Demonstration**:
